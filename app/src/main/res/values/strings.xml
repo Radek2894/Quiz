@@ -3,6 +3,9 @@
     <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
+    <string name="question">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="button_hint">Podpowiedź:</string>
+    <string name="button_back">Powrót do quizu</string>
 
     <string name="q_1">Czy szachy to stara gra?</string>
     <string name="q_2">Czy 2+2 = 6?</string>
@@ -11,6 +14,7 @@
     <string name="q_5">Czy Azja najmniejszy kontynent?</string>
     <string name="correct_answer">Poprawna odpowiedź!</string>
     <string name="incorrect_answer">Niepoprawna odpowiedź!</string>
+    <string name ="answer_was_shown">Odpowiedź była już wyświetlona!</string>
 
 
 </resources>

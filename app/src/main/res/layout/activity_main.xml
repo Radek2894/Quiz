@@ -12,7 +12,7 @@
         android:id="@+id/question_text_view"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Witamy na quizie!!"
+        android:text="Witamy na quizie!"
         android:padding="30dp"
         />
 
@@ -48,6 +48,13 @@
         android:layout_marginLeft="15dp"
         android:text="@string/button_next" />
 </RelativeLayout>
+
+    <Button
+        android:id="@+id/hint_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/button_hint"
+        android:layout_margin="10dp"/>
 
 
 
